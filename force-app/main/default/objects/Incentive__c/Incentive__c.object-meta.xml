@@ -154,7 +154,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Incentive</label>
+    <label>Incentive From git</label>
     <nameField>
         <label>Name</label>
         <type>Text</type>
