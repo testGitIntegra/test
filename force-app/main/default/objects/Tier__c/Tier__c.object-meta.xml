@@ -154,7 +154,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Tier</label>
+    <label>TierFromGit</label>
     <nameField>
         <label>Name</label>
         <type>Text</type>
